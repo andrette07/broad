@@ -4,15 +4,6 @@
    Brand: Crimson, Gold, Charcoal / Playfair + Lato
    ══════════════════════════════════════════════════ */
 
-/* ── Custom Fonts ── */
-@font-face {
-  font-family: 'Solomon Sans';
-  src: url('../fonts/Solomon Sans Normal Regular.ttf') format('truetype');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
 /* ── Tokens ── */
 :root {
   --crimson:    #6D0504;
@@ -27,7 +18,7 @@
   --off-white:  #F8F6F2;
 
   --font-serif: 'Playfair Display', serif;
-  --font-sans:  'Solomon Sans', 'Lato', sans-serif;
+  --font-sans:  'Lato', sans-serif;
 
   --site-max:   1200px;
   --nav-height: 80px;
