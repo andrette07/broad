@@ -12,8 +12,6 @@ broad/
   css/
     v2.css              # Main stylesheet (tokens, layout, responsive)
     legal.css           # Styles for privacy/terms pages
-  fonts/
-    Solomon Sans Normal Regular.ttf  # Custom sans-serif body font
   images/
     Broad-logo.png                   # Primary logo (nav + footer)
     Charleen-broad.png               # Founder photo (about section)
@@ -23,7 +21,7 @@ broad/
 ## Brand Guidelines (strict)
 
 - **Colors**: Crimson `#6D0504`, Gold `#C7A848`, Charcoal `#1C2026`, Off-white `#F8F6F2`
-- **Fonts**: Playfair Display (headings), Solomon Sans / Lato fallback (body text)
+- **Fonts**: Playfair Display (headings), Lato (body text) — both via Google Fonts
 - **Tone**: Luxury, refined, authoritative. No casual language.
 - All design tokens live at the top of `css/v2.css` as CSS custom properties.
 
